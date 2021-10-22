@@ -1,2 +1,2 @@
 # PictureBed<br>
-<p>This is for picure bed.</p>
+<p>This is repo for imgs updated.</p>
